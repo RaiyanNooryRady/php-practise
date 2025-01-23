@@ -8,7 +8,7 @@
 <body>
     <form action="vote.php" method="POST">
         <label for="age">Enter your age: </label>
-        <input type="text" name="age">
+        <input type="number" name="age">
         <input type="submit">
     </form>
 </body>
